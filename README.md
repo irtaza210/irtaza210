@@ -3,3 +3,9 @@ Iâ€™m a rising junior at Washington University in St. Louis pursuing a Bachelorâ
 Languages: Java, Python, C/C++, JavaScript, PHP, HTML, CSS, SQL
 
 Tools & Technologies: React, Jupyter, Amazon Web Services, Apache, Tensorflow, Keras, NumPy, Pandas, Matplotlib, Scikit Learn ML, Firebase, RESTful API
+
+Projects:
+
+1. News Sharing Website: A news website built using PHP, SQL, HTML, & CSS where users can create, read, update, & delete stories and add/delete/edit comments and like each story. https://github.com/irtaza210/News-Sharing-Website
+2. Baseball Statistics Calculator: A baseball statistics calculator built using Python that uses regular expressions (RegEx) to parse text files for baseball related data and then computes how many times each player on the team batted in the season and their batting average throughout the season. https://github.com/irtaza210/Baseball-Statistics-Calculator
+3. 
